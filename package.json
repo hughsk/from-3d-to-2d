@@ -1,0 +1,32 @@
+{
+  "name": "from-3d-to-2d",
+  "version": "0.0.0",
+  "description": "Take a transformation matrix like you're used to constructing with WebGL, and project arbitrary 3D points onto your 2D screen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/from-3d-to-2d.git"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hughsk/from-3d-to-2d/issues"
+  },
+  "homepage": "https://github.com/hughsk/from-3d-to-2d",
+  "keywords": [
+    "project",
+    "3d",
+    "webgl",
+    "matrix",
+    "vector",
+    "point",
+    "2d",
+    "plane",
+    "perspective",
+    "camera",
+    "transform"
+  ]
+}
