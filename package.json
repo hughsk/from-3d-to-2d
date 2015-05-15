@@ -4,7 +4,7 @@
   "description": "Take a transformation matrix like you're used to constructing with WebGL, and project arbitrary 3D points onto your 2D screen.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tape test.js"
   },
   "repository": {
     "type": "git",
@@ -28,5 +28,8 @@
     "perspective",
     "camera",
     "transform"
-  ]
+  ],
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
 }
