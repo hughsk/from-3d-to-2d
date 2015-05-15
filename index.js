@@ -1,5 +1,3 @@
-var mat4 = require('gl-matrix').mat4
-
 module.exports = from3Dto2D
 
 function from3Dto2D(v2d, v3d, m) {
