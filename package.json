@@ -1,6 +1,6 @@
 {
   "name": "from-3d-to-2d",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Take a transformation matrix like you're used to constructing with WebGL, and project arbitrary 3D points onto your 2D screen.",
   "main": "index.js",
   "scripts": {
